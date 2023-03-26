@@ -42,7 +42,8 @@ export default function Intro(){
                     <img src={me} alt="My pic"></img>
                     <br></br>
                     <br></br>
-                    <p className="text-2xl font-bold">Full-Stack | Python | Web3.0</p>
+                    //Full Stack | Python | Web3.0
+                    <p className="text-2xl font-bold">Hi! there</p>
                 </center>
             </div>
 
