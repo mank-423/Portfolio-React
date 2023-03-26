@@ -5,13 +5,13 @@ export default function Skills(){
             <center>
                 <h1 className="text-2xl font-bold p-2">ABOUT ME</h1>
                 <br></br>
-                <p className="lg:text-lg md:text-base">Here you will find more information about me, what I do, and my current skills mostly</p> 
+                <p className="lg:text-lg md:text-base">Information about myself, what I do, and my current skills</p> 
                 <p className="lg:text-lg md:text-base p-2">in terms of programming and technology</p>
             </center>
             <div className="grid grid-cols-2 gap">
                 <div className=" p-2 lg:p-4 lg:pb-20">
                     <div className="text-md lg:text-lg p-4 font-bold md:p-8">
-                        <p>Hi there! I am a final year college student and web developer with a passion for creating beautiful and 
+                        <p>Hey! I am a final year college student and web developer with a passion for creating beautiful and 
                         functional websites.  I've always been fascinated by technology and its ability to connect people all 
                         over the world. I started out with HTML, CSS, and Bootstrap, then have expanded my skills to include JavaScript, React, Node.js, and many other technologies. 
                         I love working with new frameworks and languages and am always looking for ways to expand my knowledge.</p>
