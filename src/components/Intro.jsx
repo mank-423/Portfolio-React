@@ -43,7 +43,7 @@ export default function Intro(){
                     <br></br>
                     <br></br>
                     {/*Full Stack | Python | Web3.0*/}
-                    <p className="text-2xl font-bold">Hellooo!there</p>
+                    <p className="text-2xl font-bold">Hellooo!</p>
                 </center>
             </div>
 
