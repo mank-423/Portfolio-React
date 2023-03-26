@@ -8,7 +8,7 @@ export default function Projects(){
     return (
         <div className="proj bg-[#D6EAF8] pt-8" id="project">
         <center><h1 className="text-2xl font-bold p-2">MY PROJECTS</h1></center>
-        <div className="md:pl-16 md:pr-16 lg:pl-16 lg:pr-16">
+        <div className="md:pl-20 md:pr-20 lg:pl-20 lg:pr-20">
         <center><p className="text-lg md:text-base">A showcase of some of the web development projects that I have completed. 
                 Each project is unique and demonstrates my ability to work with different technologies and frameworks. I am always eager to work on new and challenging projects.</p> 
             <p className="text-lg md:text-base">For more of my projects</p> <p> <SocialIcon url="https://github.com/mank-423" /></p> </center>
