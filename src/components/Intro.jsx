@@ -42,7 +42,7 @@ export default function Intro(){
                     <img src={me} alt="My pic"></img>
                     <br></br>
                     <br></br>
-                    <p className="text-2xl lg:text-base font-bold">Full Stack | Python | C++</p>
+                    <p className="text-base lg:text-2xl font-bold">Full Stack | Python | C++</p>
                 </center>
             </div>
 
